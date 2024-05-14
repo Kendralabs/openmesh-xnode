@@ -18,7 +18,7 @@
     "@radix-ui/react-dialog": "^1.0.4",
     "@react-jvectormap/core": "^1.0.4",
     "@react-jvectormap/world": "^1.1.2",
-    "@rocketseat/eslint-config": "^1.2.0",
+    "@rocketseat/eslint-config": "^2.0.0",
     "@tailwindcss/line-clamp": "^0.4.4",
     "@web3modal/ethereum": "^2.7.1",
     "@web3modal/react": "^2.7.1",
@@ -42,7 +42,7 @@
     "react-google-recaptcha": "^3.1.0",
     "react-hook-form": "^7.46.1",
     "react-jvectormap": "^0.0.16",
-    "react-modal-video": "^2.0.0",
+    "react-modal-video": "^2.0.1",
     "react-quill": "^2.0.0",
     "react-simple-maps": "^3.0.0",
     "react-syntax-highlighter": "^15.5.0",
@@ -51,7 +51,7 @@
     "recharts": "^2.9.3",
     "sql-formatter": "^13.0.0",
     "uuid": "^9.0.1",
-    "wagmi": "^1.4.7",
+    "wagmi": "^2.0.1",
     "yup": "^1.2.0"
   },
   "devDependencies": {
